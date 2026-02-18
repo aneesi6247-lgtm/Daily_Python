@@ -13,3 +13,4 @@ for val in word:
     else:
         dic[val] = 1
 print(dic)
+
